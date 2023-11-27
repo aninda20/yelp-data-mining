@@ -1,4 +1,3 @@
-# yelp-data-mining
 # Yelp Data Mining Analysis
 
 
