@@ -3,7 +3,7 @@
 
 
 ## About this Project
-This project, titled "Data Mining in Yelp Data," focuses on analyzing Yelp data to extract meaningful insights. Using advanced data mining techniques, this notebook delves into various aspects of Yelp reviews and ratings.
+This project focuses on analyzing Yelp data to extract meaningful insights. Using advanced data mining techniques, this notebook delves into various aspects of Yelp reviews and ratings.
 
 ## Key Sections
 - **Data Collection/Processing**: Detailed steps on how the Yelp data was collected and processed. </br> Link - https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
